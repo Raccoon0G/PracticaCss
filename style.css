@@ -1,6 +1,6 @@
 body {
-    background: black;
-    color: white;
+    background: white;
+    color: black;
 }
     
 .product_tittle{
@@ -19,4 +19,20 @@ body {
 .product_img{
     width: 500px;
     height: 500px;
+}
+
+.h5box {
+    color: white;
+    background: purple;
+    padding: 30px;
+    border: 5px solid black;
+    margin:  10px;
+}
+
+.buttonBox {
+    background: black ;
+    padding: 30px;
+    border: 5px solid blue;
+    color: white;
+    margin: 10px;
 }
